@@ -8,7 +8,7 @@ This repository contains the complete ELT pipeline for extracting data from a CS
 
    ```bash
    git clone https://github.com/YieumYoon/CSDS397_ELT.git
-   cd employee-data-pipeline
+   cd CSDS397_ELT
    ```
 
 2. **Install Dependencies**
