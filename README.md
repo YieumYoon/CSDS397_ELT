@@ -2,6 +2,8 @@
 
 This repository contains the complete ELT pipeline for extracting data from a CSV file, cleaning and transforming it, and finally loading the data into a MySQL database. The pipeline focuses on data quality by profiling, cleaning, and standardizing data before analysis.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CAH5PACT4vI/0.jpg)](https://www.youtube.com/watch?v=CAH5PACT4vI)
+
 ## Setup Instructions
 
 1. **Clone the Repository**
